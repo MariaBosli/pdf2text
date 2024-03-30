@@ -55,7 +55,7 @@ def extract_tables_to_csv(pdf_path, output_folder):
 
 
 if __name__ == "__main__":
-    pdf_path = "../data/raw/input.pdf"
+    pdf_path = "../data/raw/article6.pdf"
     output_folder = "../data/processed"
 
     # Convert PDF to text

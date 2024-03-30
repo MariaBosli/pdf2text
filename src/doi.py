@@ -30,7 +30,7 @@ def searchDoi(pdf_path):
 
 
 if __name__ == "__main__":
-   pdf_path = "../data/raw/kamoru.pdf"
+   pdf_path = "../data/raw/article6.pdf"
  
    # Rechercher le DOI dans le PDF spécifié
    searchDoi(pdf_path)
